@@ -1,0 +1,2 @@
+# Ajanda
+aylik_ajanda
